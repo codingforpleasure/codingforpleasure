@@ -1,4 +1,5 @@
-### Greetings from my comfy Github,
+### Greetings from my comfy Github profile:
+
 My name is Gil and I love to explore new technologies most of it 
 focuses on Data Science Stuff
 👋
