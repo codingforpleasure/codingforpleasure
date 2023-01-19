@@ -29,6 +29,8 @@ I'm true entuhisastic when it comes to open-source projects:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingforpleasure&theme=dark&show_icons=true)
+
 <!--
 **codingforpleasure/codingforpleasure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,3 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=codingforpleasure.visitor-badge)
