@@ -28,10 +28,6 @@ I'm true entuhisastic when it comes to open-source projects:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingforpleasure&theme=dark&show_icons=true)
-
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=codingforpleasure&show_icons=true&theme=dark"
